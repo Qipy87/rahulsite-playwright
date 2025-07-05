@@ -10,7 +10,7 @@
 ## 📦 Установка
 
 ```bash
-git clone https://github.com/your-username/rahulsite-playwright.git
+git clone https://github.com/Qipy87/rahulsite-playwright.git
 cd rahulsite-playwright
 npm install
 npx playwright install
